@@ -11,7 +11,7 @@ Ensuite vous pourrez faire
 frac test.frac
 ```
 
-On peut également générer des programme FRACTRAN qui additionne deux nombres (ici 2 et 3)
+On peut également générer des programme FRACTRAN qui additionnent deux nombres (ici 2 et 3)
 
 ```bash
 generate_add_frac 2 3
