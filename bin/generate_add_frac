@@ -1,3 +1,6 @@
+#!/usr/bin/env python3
+
+
 def generate_add_frac(x: int, y: int, filename: str = None):
     """
     Génère un fichier FRACTRAN qui additionne x et y en utilisant 3/2
